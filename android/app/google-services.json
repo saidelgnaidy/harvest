@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "461356494950",
+    "firebase_url": "https://harvest-43474.firebaseio.com",
+    "project_id": "harvest-43474",
+    "storage_bucket": "harvest-43474.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461356494950:android:a76d948107e73737d8bda7",
+        "android_client_info": {
+          "package_name": "com.masritech.harvest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461356494950-in8fehcb7v1kdievl8a4ehf5tdbvrs06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBD7QZjP40aqeT2HkWujhIcG_NjQ_vrmS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461356494950-in8fehcb7v1kdievl8a4ehf5tdbvrs06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
